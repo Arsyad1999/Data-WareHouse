@@ -1,0 +1,4 @@
+saya membuat database dari data uts classicmodels kemudian import data yang saya pilih secara suka suka 
+lalu membuat database uts_arsyad yang didalamnya berisi data yang saya ambil didalam database classicmodels 
+setelah itu semua berhasil , saya menscreenshoot hasilnya yang beformat PNG
+kemudian saya simpan data tersebut didalam github. terimakasih

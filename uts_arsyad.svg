@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="109 133 590 526" width="481px" height="393px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="109" height="20" x="209" y="148" style="fill:#007;stroke:black;"/>
+   <text width="109" height="20" x="214" y="162" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_payments</text>
+   <rect width="109" height="20" x="209" y="168" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="214" y="182" style="fill:black;" font-family="Arial" font-size="16px">checkNumber</text>
+   <rect width="109" height="20" x="209" y="188" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="214" y="202" style="fill:black;" font-family="Arial" font-size="16px">paymentDate</text>
+   <rect width="109" height="20" x="209" y="208" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="214" y="222" style="fill:black;" font-family="Arial" font-size="16px">amount</text>
+   <rect width="109" height="20" x="209" y="228" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="214" y="242" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="127" height="20" x="448" y="396" style="fill:#007;stroke:black;"/>
+   <text width="127" height="20" x="453" y="410" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_productlines</text>
+   <rect width="127" height="20" x="448" y="416" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="453" y="430" style="fill:black;" font-family="Arial" font-size="16px">textDescription</text>
+   <rect width="127" height="20" x="448" y="436" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="453" y="450" style="fill:black;" font-family="Arial" font-size="16px">productName</text>
+   <rect width="127" height="20" x="448" y="456" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="453" y="470" style="fill:black;" font-family="Arial" font-size="16px">quantityInStock</text>
+   <rect width="127" height="20" x="448" y="476" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="453" y="490" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="144" height="20" x="124" y="391" style="fill:#007;stroke:black;"/>
+   <text width="144" height="20" x="129" y="405" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_products</text>
+   <rect width="144" height="20" x="124" y="411" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="129" y="425" style="fill:black;" font-family="Arial" font-size="16px">productName</text>
+   <rect width="144" height="20" x="124" y="431" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="129" y="445" style="fill:black;" font-family="Arial" font-size="16px">productVendor</text>
+   <rect width="144" height="20" x="124" y="451" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="129" y="465" style="fill:black;" font-family="Arial" font-size="16px">productDescription</text>
+   <rect width="144" height="20" x="124" y="471" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="129" y="485" style="fill:black;" font-family="Arial" font-size="16px">buyPrice</text>
+   <rect width="144" height="20" x="124" y="491" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="129" y="505" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+</svg>
